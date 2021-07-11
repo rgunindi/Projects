@@ -1,0 +1,9 @@
+D:\KonuBot\KonuBot\bin\Debug\KonuBot.exe
+D:\KonuBot\KonuBot\bin\Debug\KonuBot.pdb
+D:\KonuBot\KonuBot\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KonuBot\KonuBot\obj\x86\Debug\KonuBot.Form1.resources
+D:\KonuBot\KonuBot\obj\x86\Debug\KonuBot.Properties.Resources.resources
+D:\KonuBot\KonuBot\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\KonuBot\KonuBot\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\KonuBot\KonuBot\obj\x86\Debug\KonuBot.exe
+D:\KonuBot\KonuBot\obj\x86\Debug\KonuBot.pdb
