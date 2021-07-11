@@ -1,0 +1,36 @@
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Form1.resources
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Properties.Resources.resources
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Hit Artırma\Hit Artırma\bin\Debug\Hit Artırma.exe
+D:\Hit Artırma\Hit Artırma\bin\Debug\Hit Artırma.pdb
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit Artırma.exe
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit Artırma.pdb
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit_Artırma.kayıt.resources
+D:\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Giriş.resources
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit Artırma.exe
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit Artırma.pdb
+D:\Ramazan\Hit Artırma\Hit Artırma\bin\Debug\Hit Artırma.exe
+D:\Ramazan\Hit Artırma\Hit Artırma\bin\Debug\Hit Artırma.pdb
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Form1.resources
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Giriş.resources
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit_Artırma.kayıt.resources
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Properties.Resources.resources
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Ramazan\Hit Artırma\Hit Artırma\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit Artırma.exe
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit Artırma.pdb
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\bin\Debug\Hit Artırma.exe
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\bin\Debug\Hit Artırma.pdb
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Form1.resources
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Giriş.resources
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit_Artırma.kayıt.resources
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit_Artırma.Properties.Resources.resources
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit_Artırma.bilgiler.resources
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit_Artırma.cozum.resources
+D:\ÇALIŞMALARIM\Başvuru Alma\Hit Artırma\obj\x86\Debug\Hit_Artırma.cozumkontrol.resources
