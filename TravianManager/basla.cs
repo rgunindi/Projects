@@ -96,18 +96,18 @@ namespace TravianManager
         {
             if (secenek == "1")
             {
-                driver.FindElementByName("name").SendKeys("Dark");// Qaos
-                driver.FindElementByName("password").SendKeys("12345678");
+                driver.FindElementByName("name").SendKeys("*****");// LoginName
+                driver.FindElementByName("password").SendKeys("*****"); 
             }
             else if(secenek == "3")
             {
-                driver.FindElementByName("name").SendKeys("mygamehesap@gmail.com");// Qaos
-                driver.FindElementByName("password").SendKeys("123456");
+                driver.FindElementByName("name").SendKeys("*****");// LoginName
+                driver.FindElementByName("password").SendKeys("*****");
             }
             else
             {
-                driver.FindElementByName("name").SendKeys("Qaos");// Qaos
-                driver.FindElementByName("password").SendKeys("12345678");
+                driver.FindElementByName("name").SendKeys("*****");// LoginName
+                driver.FindElementByName("password").SendKeys("*****");
             }
             try
             {
@@ -151,18 +151,18 @@ namespace TravianManager
         {
             if (secenek == "1")
             {
-                driverSaldiri.FindElementByName("name").SendKeys("Dark");// Qaos
-                driverSaldiri.FindElementByName("password").SendKeys("12345678");
+                driverSaldiri.FindElementByName("name").SendKeys("****");// LoginName
+                driverSaldiri.FindElementByName("password").SendKeys("*****");
             }
             else if (secenek == "3")
             {
-                driverSaldiri.FindElementByName("name").SendKeys("mygamehesap@gmail.com");// Qaos
-                driverSaldiri.FindElementByName("password").SendKeys("123456");
+                driverSaldiri.FindElementByName("name").SendKeys("*****");// LoginName
+                driverSaldiri.FindElementByName("password").SendKeys("*****");
             }
             else
             {
-                driverSaldiri.FindElementByName("name").SendKeys("Qaos");// Qaos
-                driverSaldiri.FindElementByName("password").SendKeys("12345678");
+                driverSaldiri.FindElementByName("name").SendKeys("*****");// LoginName
+                driverSaldiri.FindElementByName("password").SendKeys("*****");
             }
 
             try
