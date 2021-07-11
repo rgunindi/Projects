@@ -1,0 +1,107 @@
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Giriş.resources
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Hesap.resources
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Documents and Settings\Administrator\belgelerim\visual studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.veri.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.veri.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Giriş.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Hesap.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.face.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Capthca.resources
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe.config
+C:\Documents and Settings\Administrator\Belgelerim\Visual Studio 2010\Projects\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe.config
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Capthca.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.face.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.veri.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Giriş.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Hesap.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\bin\Debug\KGB.pdb
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.exe
+C:\Documents and Settings\Administrator\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.pdb
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe.config
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.exe
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.pdb
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\bin\Debug\KGB.pdb
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Capthca.resources
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.face.resources
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.veri.resources
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Giriş.resources
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Hesap.resources
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\Administrator\Desktop\MasaÜstü\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe.config
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.exe
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.pdb
+D:\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe
+D:\KGB\WindowsFormsApplication5\bin\Debug\KGB.pdb
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Capthca.resources
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.face.resources
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.veri.resources
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Giriş.resources
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Hesap.resources
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.Properties.Resources.resources
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\BluE\Desktop\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe.config
+C:\Users\BluE\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.exe
+C:\Users\BluE\Desktop\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.pdb
+D:\çALIŞMALARIM\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe.config
+D:\çALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.exe
+D:\çALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.pdb
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\bin\Debug\KGB.exe
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\bin\Debug\KGB.pdb
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Capthca.resources
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.face.resources
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.veri.resources
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Giriş.resources
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Hesap.resources
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\KGB.Properties.Resources.resources
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\ÇALIŞMALARIM\KGB\WindowsFormsApplication5\obj\x86\Debug\GenerateResource.write.1.tlog
